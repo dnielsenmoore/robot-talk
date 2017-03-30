@@ -15,7 +15,7 @@ exports.STTPassword = 'cC32s6Et4y5u';
 // Credentials for Watson Conversation service
 exports.ConUsername = '1463fde4-02df-4e4a-ae9a-6f38c67c533a';
 exports.ConPassword = 'FW8qmfCpTHjF';
-exports.ConWorkspace = ''
+exports.ConWorkspace = 'b267cf35-7391-4d00-b949-b83fc61c1841'
 
 //Credentials for Watson Tone Analyzer service
 exports.ToneUsername = '53795c80-7b03-4091-a6c2-8bd83b444f87';
