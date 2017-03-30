@@ -9,18 +9,18 @@ exports.voice = 'en-US_MichaelVoice';
 // en-US_MichaelVoice (the default)
 
 // Credentials for Watson Speech to Text service
-exports.STTUsername = '';
-exports.STTPassword = '';
+exports.STTUsername = '8924c951-bf34-488c-a34e-60174eca5ed4';
+exports.STTPassword = 'cC32s6Et4y5u';
 
 // Credentials for Watson Conversation service
-exports.ConUsername = '';
-exports.ConPassword = '';
+exports.ConUsername = '1463fde4-02df-4e4a-ae9a-6f38c67c533a';
+exports.ConPassword = 'FW8qmfCpTHjF';
 exports.ConWorkspace = ''
 
 //Credentials for Watson Tone Analyzer service
-exports.ToneUsername = '';
-exports.TonePassword = '';
+exports.ToneUsername = '53795c80-7b03-4091-a6c2-8bd83b444f87';
+exports.TonePassword = 'LCT4vGQT4m8T';
 
 //Credentials for Watson Text to Speech service
-exports.TTSUsername = '';
-exports.TTSPassword = '';
+exports.TTSUsername = '3c827263-3fbf-4411-8bca-c699deb76936';
+exports.TTSPassword = '2bN4r3uctWy5';
